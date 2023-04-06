@@ -1,0 +1,697 @@
+,DevelopmentRegion,RegionalDistrict,Municipality,Month,n_res_trans,n_res_1fam,n_res_strata,n_res_fam,n_res_strata_rental,n_res_acreage_trans,n_res_unkn,sum_FMV_res,n_fth
+2220,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,1,31,31,0,0,0,0,0,15641600.0,3
+2221,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,2,30,25,1,2,0,1,1,19687800.0,4
+2222,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,3,41,34,5,1,0,0,1,21497168.75,5
+2223,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,4,58,42,14,2,0,0,0,29009050.0,4
+2224,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,5,54,48,6,0,0,0,0,27685461.0,13
+2225,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,6,44,41,2,0,0,0,1,24576100.0,9
+2226,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,7,36,34,0,0,0,0,2,20726400.0,11
+2227,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,8,35,28,2,2,0,0,3,19170539.0,5
+2228,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,9,29,17,4,0,0,0,8,13878100.0,5
+2229,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,10,22,16,3,0,0,0,3,9156700.0,5
+2230,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,11,24,24,0,0,0,0,0,10758225.0,6
+2231,Vancouver Island/Coast,01 - Alberni-Clayoquot,223 - City of Port Alberni,12,23,20,3,0,0,0,0,11500500.0,8
+2232,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,1,0,0,0,0,0,0,0,0.0,0
+2233,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,2,0,0,0,0,0,0,0,0.0,0
+2234,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,3,0,0,0,0,0,0,0,0.0,0
+2235,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,4,0,0,0,0,0,0,0,0.0,0
+2236,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,5,0,0,0,0,0,0,0,0.0,0
+2237,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,6,1,1,0,0,0,0,0,50000.0,0
+2238,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,7,0,0,0,0,0,0,0,0.0,0
+2239,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,8,0,0,0,0,0,0,0,0.0,0
+2240,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,9,1,1,0,0,0,0,0,205300.0,0
+2241,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,10,0,0,0,0,0,0,0,0.0,0
+2242,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,11,0,0,0,0,0,0,0,0.0,0
+2243,Vancouver Island/Coast,01 - Alberni-Clayoquot,408 - Huu-ay-aht  First Nation,12,0,0,0,0,0,0,0,0.0,0
+2244,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,1,9,2,7,0,0,0,0,9321138.0,0
+2245,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,2,3,3,0,0,0,0,0,6175000.0,0
+2246,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,3,4,2,2,0,0,0,0,5290000.0,0
+2247,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,4,4,1,3,0,0,0,0,4055000.0,0
+2248,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,5,11,7,3,0,0,1,0,15868989.71,0
+2249,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,6,6,5,1,0,0,0,0,6418001.0,0
+2250,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,7,2,0,1,0,0,0,1,1270000.0,0
+2251,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,8,4,1,2,0,0,1,0,8218000.0,0
+2252,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,9,6,4,1,1,0,0,0,9837000.0,0
+2253,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,10,5,2,3,0,0,0,0,7442000.0,0
+2254,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,11,2,2,0,0,0,0,0,2350000.0,0
+2255,Vancouver Island/Coast,01 - Alberni-Clayoquot,580 - District of Tofino,12,2,2,0,0,0,0,0,2807185.98,0
+2256,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,1,8,5,3,0,0,0,0,11017000.0,0
+2257,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,2,5,1,0,0,0,0,4,5002000.0,0
+2258,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,3,6,3,3,0,0,0,0,4577000.0,0
+2259,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,4,11,4,2,0,0,0,5,7066619.05,1
+2260,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,5,9,7,2,0,0,0,0,7205000.0,0
+2261,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,6,15,5,2,0,0,0,8,9805000.0,1
+2262,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,7,6,2,0,0,0,1,3,7584000.0,0
+2263,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,8,5,4,1,0,0,0,0,5442222.0,0
+2264,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,9,6,6,0,0,0,0,0,4664000.0,0
+2265,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,10,1,1,0,0,0,0,0,719000.0,0
+2266,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,11,3,3,0,0,0,0,0,2150000.0,0
+2267,Vancouver Island/Coast,01 - Alberni-Clayoquot,583 - District of Ucluelet,12,2,2,0,0,0,0,0,1658000.0,0
+2268,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,1,25,11,0,0,0,14,0,11239550.0,0
+2269,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,2,22,16,0,0,0,6,0,14751361.95,0
+2270,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,3,17,10,0,0,0,7,0,9136000.0,1
+2271,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,4,20,16,0,0,0,4,0,12363200.0,1
+2272,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,5,28,17,0,0,0,11,0,20941600.0,2
+2273,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,6,24,21,1,0,0,2,0,18759484.12,0
+2274,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,7,13,10,0,0,0,3,0,7315195.0,0
+2275,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,8,15,11,1,0,0,3,0,16063000.0,1
+2276,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,9,14,11,0,0,0,3,0,14663500.0,1
+2277,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,10,11,11,0,0,0,0,0,7447744.0,0
+2278,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,11,12,7,1,0,0,4,0,10520400.0,1
+2279,Vancouver Island/Coast,01 - Alberni-Clayoquot,770 - Alberni Rural,12,9,7,0,0,0,2,0,7359800.0,0
+2280,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,1,28,22,5,0,0,0,1,26829237.29,1
+2281,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,2,44,32,6,0,0,0,6,41404011.0,1
+2282,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,3,50,39,7,0,0,0,4,50324210.23,0
+2283,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,4,54,34,9,6,0,0,5,68581007.33,1
+2284,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,5,62,43,13,2,2,0,2,70361076.35,2
+2285,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,6,41,31,9,0,0,0,1,42602253.49,1
+2286,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,7,83,32,8,0,39,0,4,59492223.57,0
+2287,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,8,53,27,18,0,1,0,7,45121147.5,4
+2288,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,9,47,23,11,0,0,1,12,46383346.78,3
+2289,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,10,26,19,5,0,0,0,2,28817557.14,0
+2290,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,11,36,22,14,0,0,0,0,34123967.43,1
+2291,Vancouver Island/Coast,03 - Capital,213 - City of Colwood,12,38,22,9,0,0,0,7,33966559.93,0
+2292,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,1,150,39,93,17,0,0,1,175409862.7,11
+2293,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,2,148,32,109,5,0,0,2,143546583.2,15
+2294,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,3,185,31,144,9,0,0,1,164756038.6,8
+2295,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,4,206,37,151,16,0,0,2,197272333.2,18
+2296,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,5,222,41,166,15,0,0,0,217097138.6,17
+2297,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,6,225,45,145,15,0,0,20,407965659.0,13
+2298,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,7,173,35,111,6,0,0,21,164474195.8,11
+2299,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,8,153,39,104,6,0,0,4,143728131.0,11
+2300,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,9,135,39,76,7,0,0,13,122172426.4,9
+2301,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,10,97,18,74,2,0,0,3,72953830.67,15
+2302,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,11,139,28,102,9,0,0,0,156586440.6,14
+2303,Vancouver Island/Coast,03 - Capital,234 - City of Victoria,12,107,20,82,5,0,0,0,84504836.0,14
+2304,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,1,22,14,7,0,0,1,0,25746000.0,0
+2305,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,2,19,9,8,0,0,1,1,22611300.0,0
+2306,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,3,20,14,5,0,0,0,1,19185819.0,0
+2307,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,4,16,11,4,0,0,1,0,18730150.0,0
+2308,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,5,17,10,7,0,0,0,0,18032475.0,0
+2309,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,6,35,25,9,0,0,1,0,47948460.0,1
+2310,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,7,35,20,15,0,0,0,0,34915909.05,1
+2311,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,8,20,10,9,0,0,0,1,23077978.0,0
+2312,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,9,20,12,7,0,0,1,0,28552599.0,1
+2313,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,10,22,17,4,0,0,1,0,22964200.0,0
+2314,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,11,17,9,8,0,0,0,0,15401600.0,1
+2315,Vancouver Island/Coast,03 - Capital,302 - District of Central Saanich,12,17,10,6,0,0,1,0,15675000.0,0
+2316,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,1,17,7,7,3,0,0,0,23677950.01,4
+2317,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,2,29,11,11,3,0,0,4,60762838.0,1
+2318,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,3,32,16,13,2,0,0,1,40177266.66,5
+2319,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,4,25,12,11,2,0,0,0,21546800.0,3
+2320,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,5,31,17,12,2,0,0,0,33331800.0,1
+2321,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,6,24,13,11,0,0,0,0,23235299.0,3
+2322,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,7,35,20,14,1,0,0,0,30574200.0,2
+2323,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,8,27,16,10,0,0,0,1,23411938.09,2
+2324,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,9,12,6,4,1,0,0,1,10283360.0,0
+2325,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,10,12,4,8,0,0,0,0,9668899.0,2
+2326,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,11,64,13,51,0,0,0,0,44541838.0,0
+2327,Vancouver Island/Coast,03 - Capital,307 - Township of Esquimalt,12,29,8,20,1,0,0,0,20375835.25,0
+2328,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),1,102,64,35,1,0,2,0,109821976.0,7
+2329,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),2,67,36,30,1,0,0,0,60386906.0,7
+2330,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),3,117,64,51,1,0,1,0,135631356.3,11
+2331,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),4,122,83,39,0,0,0,0,131268918.6,7
+2332,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),5,147,93,54,0,0,0,0,155369098.4,8
+2333,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),6,191,113,74,4,0,0,0,312487837.8,14
+2334,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),7,142,96,44,2,0,0,0,157325223.0,11
+2335,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),8,139,89,49,1,0,0,0,147275565.0,10
+2336,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),9,91,53,37,1,0,0,0,83706388.95,14
+2337,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),10,79,55,24,0,0,0,0,82385088.0,2
+2338,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),11,87,48,38,1,0,0,0,102302077.0,7
+2339,Vancouver Island/Coast,03 - Capital,308 - District of Saanich (SD61),12,64,38,25,1,0,0,0,56016888.1,8
+2340,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),1,74,14,59,0,0,1,0,77353260.69,0
+2341,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),2,23,10,10,0,0,3,0,26788420.46,0
+2342,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),3,29,13,11,0,0,5,0,46488354.38,0
+2343,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),4,28,15,10,0,0,3,0,42672761.9,2
+2344,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),5,38,21,13,0,0,4,0,64984000.0,0
+2345,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),6,34,16,17,0,0,1,0,50100950.0,0
+2346,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),7,30,15,14,0,0,1,0,44535550.0,1
+2347,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),8,33,18,15,0,0,0,0,40437971.43,0
+2348,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),9,23,11,11,0,0,1,0,27657119.0,0
+2349,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),10,27,13,14,0,0,0,0,30856919.05,1
+2350,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),11,59,13,43,0,0,3,0,61481367.7,0
+2351,Vancouver Island/Coast,03 - Capital,309 - District of Saanich (SD63),12,13,9,4,0,0,0,0,14887500.0,0
+2352,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,1,23,20,3,0,0,0,0,55773976.19,0
+2353,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,2,17,16,1,0,0,0,0,44292986.0,0
+2354,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,3,22,17,5,0,0,0,0,41860000.0,0
+2355,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,4,24,18,6,0,0,0,0,43338119.0,0
+2356,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,5,31,23,8,0,0,0,0,73644388.0,1
+2357,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,6,38,34,3,1,0,0,0,88330562.0,0
+2358,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,7,31,26,5,0,0,0,0,65133731.01,1
+2359,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,8,26,21,4,1,0,0,0,46064500.0,1
+2360,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,9,15,13,2,0,0,0,0,31738200.0,0
+2361,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,10,21,17,4,0,0,0,0,37075300.0,0
+2362,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,11,8,4,4,0,0,0,0,11120966.67,0
+2363,Vancouver Island/Coast,03 - Capital,317 - District of Oak Bay,12,14,11,3,0,0,0,0,23546000.0,0
+2364,Vancouver Island/Coast,03 - Capital,327 - City of Langford,1,138,71,44,0,0,1,22,108114058.5,2
+2365,Vancouver Island/Coast,03 - Capital,327 - City of Langford,2,105,44,32,3,0,2,24,92567502.55,7
+2366,Vancouver Island/Coast,03 - Capital,327 - City of Langford,3,128,56,50,3,0,1,18,127384511.4,5
+2367,Vancouver Island/Coast,03 - Capital,327 - City of Langford,4,181,72,63,0,0,4,42,161502675.3,6
+2368,Vancouver Island/Coast,03 - Capital,327 - City of Langford,5,198,76,73,1,0,2,46,169838364.1,9
+2369,Vancouver Island/Coast,03 - Capital,327 - City of Langford,6,269,81,76,2,0,4,106,207027367.9,6
+2370,Vancouver Island/Coast,03 - Capital,327 - City of Langford,7,126,66,42,0,0,0,18,114353993.9,6
+2371,Vancouver Island/Coast,03 - Capital,327 - City of Langford,8,114,69,35,1,0,3,6,144944153.7,7
+2372,Vancouver Island/Coast,03 - Capital,327 - City of Langford,9,107,40,28,2,0,2,35,94781056.98,3
+2373,Vancouver Island/Coast,03 - Capital,327 - City of Langford,10,168,54,28,0,0,1,85,123065550.7,8
+2374,Vancouver Island/Coast,03 - Capital,327 - City of Langford,11,87,44,37,2,0,4,0,72763516.54,7
+2375,Vancouver Island/Coast,03 - Capital,327 - City of Langford,12,193,34,102,0,0,1,56,110774887.1,9
+2376,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,1,22,21,0,0,0,1,0,35351154.76,0
+2377,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,2,12,8,1,0,0,1,2,17917983.24,0
+2378,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,3,17,15,0,0,0,1,1,41498400.0,0
+2379,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,4,17,13,4,0,0,0,0,33916773.81,0
+2380,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,5,27,24,2,0,0,1,0,46695714.29,0
+2381,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,6,33,31,1,0,0,1,0,54020142.86,0
+2382,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,7,17,17,0,0,0,0,0,24850000.0,0
+2383,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,8,27,25,2,0,0,0,0,49270428.57,0
+2384,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,9,18,16,1,0,0,1,0,32827852.38,1
+2385,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,10,17,15,2,0,0,0,0,28362300.0,0
+2386,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,11,18,17,1,0,0,0,0,31080750.0,0
+2387,Vancouver Island/Coast,03 - Capital,332 - District of North Saanich,12,6,5,1,0,0,0,0,10184000.0,0
+2388,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,1,6,1,0,0,0,5,0,7758000.0,0
+2389,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,2,2,0,0,0,0,2,0,3799000.0,0
+2390,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,3,4,1,0,0,0,3,0,6565000.0,0
+2391,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,4,2,1,0,0,0,1,0,2655000.0,0
+2392,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,5,5,2,0,0,0,3,0,9400000.0,0
+2393,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,6,3,0,0,0,0,3,0,4380000.0,0
+2394,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,7,4,3,0,0,0,1,0,5694000.0,0
+2395,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,8,5,0,0,0,0,5,0,8206400.0,0
+2396,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,9,4,1,0,0,0,3,0,4670000.0,0
+2397,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,10,3,0,0,0,0,3,0,2813000.0,0
+2398,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,11,5,1,0,0,0,4,0,4657114.71,0
+2399,Vancouver Island/Coast,03 - Capital,344 - District of Metchosin,12,1,0,0,0,0,1,0,1190000.0,0
+2400,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,1,31,18,9,1,0,1,2,27658552.38,0
+2401,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,2,36,21,4,1,0,4,6,26810073.85,0
+2402,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,3,33,18,5,0,0,1,9,23260040.47,1
+2403,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,4,31,21,9,0,0,1,0,26057766.67,1
+2404,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,5,63,50,8,0,0,3,2,47653988.0,0
+2405,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,6,53,39,13,0,0,1,0,44786790.48,2
+2406,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,7,40,30,5,0,0,0,5,31138614.28,0
+2407,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,8,44,28,10,0,0,2,4,41212482.86,1
+2408,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,9,52,18,5,0,0,1,28,29731640.0,0
+2409,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,10,25,12,5,0,0,2,6,18242510.71,0
+2410,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,11,26,20,4,0,0,1,1,20758300.0,1
+2411,Vancouver Island/Coast,03 - Capital,349 - District of Sooke,12,22,16,6,0,0,0,0,18264309.52,0
+2412,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),1,0,0,0,0,0,0,0,0.0,0
+2413,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),2,0,0,0,0,0,0,0,0.0,0
+2414,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),3,0,0,0,0,0,0,0,0.0,0
+2415,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),4,0,0,0,0,0,0,0,0.0,0
+2416,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),5,0,0,0,0,0,0,0,0.0,0
+2417,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),6,0,0,0,0,0,0,0,0.0,0
+2418,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),7,1,1,0,0,0,0,0,1255000.0,0
+2419,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),8,1,0,0,0,0,1,0,1300000.0,0
+2420,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),9,0,0,0,0,0,0,0,0.0,0
+2421,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),10,0,0,0,0,0,0,0,0.0,0
+2422,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),11,0,0,0,0,0,0,0,0.0,0
+2423,Vancouver Island/Coast,03 - Capital,361 - District of Highlands (SD61),12,0,0,0,0,0,0,0,0.0,0
+2424,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),1,1,0,0,0,0,1,0,1200000.0,0
+2425,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),2,3,2,0,0,0,1,0,4167000.0,0
+2426,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),3,2,0,0,0,0,2,0,3730000.0,0
+2427,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),4,2,0,0,0,0,2,0,3800000.0,0
+2428,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),5,0,0,0,0,0,0,0,0.0,0
+2429,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),6,4,2,0,0,0,2,0,5871000.0,0
+2430,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),7,2,1,0,0,0,1,0,3082500.0,0
+2431,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),8,5,3,0,0,0,2,0,5788999.0,0
+2432,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),9,5,2,0,0,0,3,0,5889356.36,0
+2433,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),10,3,3,0,0,0,0,0,3674900.0,0
+2434,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),11,2,0,0,0,0,2,0,3575000.0,0
+2435,Vancouver Island/Coast,03 - Capital,362 - District of Highlands (SD62),12,1,0,0,0,0,1,0,2500000.0,0
+2436,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),1,21,6,15,0,0,0,0,17896610.0,2
+2437,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),2,8,3,5,0,0,0,0,8160188.75,2
+2438,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),3,15,6,9,0,0,0,0,11414000.0,1
+2439,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),4,25,12,13,0,0,0,0,24928200.0,0
+2440,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),5,22,5,17,0,0,0,0,19043553.76,1
+2441,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),6,23,8,15,0,0,0,0,20827151.07,0
+2442,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),7,31,15,16,0,0,0,0,29417100.0,1
+2443,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),8,28,10,18,0,0,0,0,23805749.52,1
+2444,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),9,21,7,14,0,0,0,0,17997200.0,0
+2445,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),10,10,3,7,0,0,0,0,7283500.0,2
+2446,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),11,18,7,11,0,0,0,0,14775900.0,0
+2447,Vancouver Island/Coast,03 - Capital,401 - Town of View Royal (SD61),12,17,6,11,0,0,0,0,12053114.29,2
+2448,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),1,0,0,0,0,0,0,0,0.0,0
+2449,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),2,0,0,0,0,0,0,0,0.0,0
+2450,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),3,0,0,0,0,0,0,0,0.0,0
+2451,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),4,0,0,0,0,0,0,0,0.0,0
+2452,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),5,1,1,0,0,0,0,0,1400000.0,0
+2453,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),6,0,0,0,0,0,0,0,0.0,0
+2454,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),7,0,0,0,0,0,0,0,0.0,0
+2455,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),8,1,0,0,0,0,1,0,1062490.0,0
+2456,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),9,0,0,0,0,0,0,0,0.0,0
+2457,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),10,0,0,0,0,0,0,0,0.0,0
+2458,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),11,0,0,0,0,0,0,0,0.0,0
+2459,Vancouver Island/Coast,03 - Capital,402 - Town of View Royal (SD62),12,0,0,0,0,0,0,0,0.0,0
+2460,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,1,29,8,14,0,0,0,7,26511538.09,1
+2461,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,2,21,6,14,0,0,0,1,16348566.49,0
+2462,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,3,53,11,12,1,0,0,29,66602654.58,0
+2463,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,4,32,13,19,0,0,0,0,32298916.8,0
+2464,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,5,40,21,19,0,0,0,0,39286047.62,0
+2465,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,6,53,29,24,0,0,0,0,54819300.0,2
+2466,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,7,50,26,24,0,0,0,0,47440900.0,0
+2467,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,8,43,15,12,0,0,0,16,31587065.0,0
+2468,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,9,58,11,24,0,0,0,23,45784635.0,2
+2469,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,10,40,14,14,0,0,0,12,38021357.86,0
+2470,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,11,28,12,16,0,0,0,0,33185752.98,0
+2471,Vancouver Island/Coast,03 - Capital,476 - Town of Sidney,12,11,5,6,0,0,0,0,8250900.0,0
+2472,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,1,11,6,0,0,0,5,0,8259900.0,2
+2473,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,2,3,0,0,0,0,3,0,2022000.0,0
+2474,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,3,14,5,1,1,0,7,0,10847542.86,0
+2475,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,4,14,4,0,0,0,10,0,15597000.0,0
+2476,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,5,10,7,0,0,0,3,0,8709287.0,0
+2477,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,6,17,9,1,0,0,7,0,15745500.0,0
+2478,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,7,9,3,0,0,0,6,0,7789999.0,0
+2479,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,8,6,2,0,0,0,4,0,7371285.71,0
+2480,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,9,11,8,0,0,0,3,0,10589995.0,0
+2481,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,10,9,6,0,0,0,3,0,7902000.0,0
+2482,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,11,9,4,0,0,0,5,0,6160000.0,0
+2483,Vancouver Island/Coast,03 - Capital,762 - Victoria Rural,12,9,4,0,0,0,5,0,6623471.43,0
+2484,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,1,3,1,0,0,0,2,0,1255000.0,1
+2485,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,2,0,0,0,0,0,0,0,0.0,0
+2486,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,3,4,0,0,0,0,4,0,4657000.0,0
+2487,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,4,1,0,0,0,0,1,0,650000.0,0
+2488,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,5,2,2,0,0,0,0,0,3160000.0,0
+2489,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,6,1,0,0,0,0,1,0,428000.0,0
+2490,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,7,1,0,0,0,0,1,0,715000.0,0
+2491,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,8,3,3,0,0,0,0,0,2690000.0,0
+2492,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,9,2,2,0,0,0,0,0,1439999.0,0
+2493,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,10,2,1,0,0,0,1,0,1738000.0,0
+2494,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,11,0,0,0,0,0,0,0,0.0,0
+2495,Vancouver Island/Coast,03 - Capital,763 - Gulf Islands Rural,12,2,2,0,0,0,0,0,1850000.0,0
+2496,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,1,31,23,0,0,0,8,0,31440000.0,0
+2497,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,2,31,19,1,0,0,11,0,18220751.0,0
+2498,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,3,41,27,0,0,0,14,0,31118700.0,1
+2499,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,4,32,23,0,0,0,9,0,28366740.0,0
+2500,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,5,44,29,0,0,0,15,0,52469826.23,0
+2501,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,6,43,27,2,0,0,14,0,43509595.24,0
+2502,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,7,43,29,2,0,0,12,0,50382400.0,2
+2503,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,8,49,32,2,0,0,15,0,35946816.43,1
+2504,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,9,30,23,1,0,0,6,0,34066846.51,0
+2505,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,10,33,22,4,0,0,7,0,27288100.0,0
+2506,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,11,35,20,2,0,0,13,0,31997050.0,1
+2507,Vancouver Island/Coast,03 - Capital,764 - Gulf Islands Rural,12,24,20,0,0,0,4,0,17235650.0,1
+2508,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,1,85,57,25,0,0,1,2,55316051.5,8
+2509,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,2,58,35,14,0,0,0,9,37857760.0,7
+2510,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,3,73,34,32,1,0,0,6,43842707.0,5
+2511,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,4,82,53,28,0,0,1,0,58752586.34,5
+2512,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,5,88,55,33,0,0,0,0,59707333.37,11
+2513,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,6,102,66,34,1,0,0,1,72206393.9,10
+2514,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,7,120,76,43,0,0,1,0,85003274.0,11
+2515,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,8,77,47,28,0,0,0,2,54770400.0,8
+2516,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,9,57,26,20,0,0,1,10,50088918.03,7
+2517,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,10,69,45,19,0,0,0,5,47692647.31,2
+2518,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,11,42,32,10,0,0,0,0,30410100.0,3
+2519,Vancouver Island/Coast,09 - Comox Valley,204 - City of Courtenay,12,36,22,12,0,0,0,2,22356300.0,4
+2520,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,1,43,16,8,0,0,1,18,25999052.23,1
+2521,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,2,13,10,3,0,0,0,0,10974900.0,0
+2522,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,3,35,22,12,0,0,1,0,25845200.0,3
+2523,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,4,26,19,6,1,0,0,0,23049000.0,1
+2524,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,5,48,33,14,1,0,0,0,46391850.0,2
+2525,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,6,44,33,11,0,0,0,0,38997612.0,2
+2526,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,7,51,30,11,0,0,2,8,50788200.0,2
+2527,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,8,52,30,15,0,0,0,7,38532826.0,1
+2528,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,9,20,16,1,0,0,0,3,16637320.68,0
+2529,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,10,22,9,9,0,0,0,4,13740860.0,0
+2530,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,11,27,19,8,0,0,0,0,19524500.0,1
+2531,Vancouver Island/Coast,09 - Comox Valley,412 - Town of Comox,12,14,9,4,0,0,0,1,9666600.0,1
+2532,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,1,11,11,0,0,0,0,0,7950000.0,0
+2533,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,2,8,7,1,0,0,0,0,4661500.0,0
+2534,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,3,7,5,2,0,0,0,0,5516900.0,0
+2535,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,4,9,8,1,0,0,0,0,7241400.0,0
+2536,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,5,7,6,1,0,0,0,0,5864500.0,0
+2537,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,6,28,11,1,0,0,0,16,15385000.0,0
+2538,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,7,25,10,2,0,0,0,13,13692072.0,0
+2539,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,8,8,7,1,0,0,0,0,7888788.0,0
+2540,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,9,8,8,0,0,0,0,0,6743800.0,0
+2541,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,10,9,6,3,0,0,0,0,6028000.0,1
+2542,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,11,2,1,1,0,0,0,0,1135000.0,0
+2543,Vancouver Island/Coast,09 - Comox Valley,516 - Village of Cumberland,12,5,5,0,0,0,0,0,3227050.0,0
+2544,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,1,53,36,5,0,0,12,0,40858967.67,0
+2545,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,2,34,23,1,0,0,10,0,26803442.9,0
+2546,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,3,37,26,2,0,0,9,0,31597583.11,1
+2547,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,4,58,32,3,1,0,22,0,57943083.81,1
+2548,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,5,43,31,3,0,0,9,0,43477400.0,0
+2549,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,6,37,26,0,0,0,11,0,40277628.3,0
+2550,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,7,45,31,1,0,0,13,0,48836949.01,1
+2551,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,8,42,31,1,0,0,10,0,45336510.71,1
+2552,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,9,26,16,3,0,0,7,0,25251161.13,0
+2553,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,10,41,28,4,0,0,9,0,34176916.69,1
+2554,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,11,37,25,2,0,0,10,0,34972820.02,0
+2555,Vancouver Island/Coast,09 - Comox Valley,771 - Courtenay Rural,12,24,18,2,0,0,4,0,22988066.66,0
+2556,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,1,3,1,2,0,0,0,0,1358000.0,0
+2557,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,2,10,6,2,1,0,0,1,6470000.0,2
+2558,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,3,20,13,5,0,0,0,2,10039139.35,4
+2559,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,4,12,8,3,0,0,0,1,7376000.0,0
+2560,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,5,24,8,12,4,0,0,0,15159539.0,5
+2561,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,6,12,8,4,0,0,0,0,6275264.2,2
+2562,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,7,20,7,11,0,0,0,2,9335900.0,2
+2563,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,8,15,3,5,0,0,0,7,5380700.0,2
+2564,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,9,9,6,3,0,0,0,0,5268500.0,0
+2565,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,10,11,6,1,0,0,0,4,6823600.0,2
+2566,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,11,11,6,5,0,0,0,0,5273000.0,3
+2567,Vancouver Island/Coast,10 - Cowichan Valley,207 - City of Duncan,12,4,3,0,0,0,0,1,2197040.0,0
+2568,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,1,58,37,15,0,0,5,1,43485444.96,6
+2569,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,2,45,25,11,0,0,4,5,30856526.0,4
+2570,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,3,70,41,18,2,0,6,3,56832412.0,6
+2571,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,4,69,46,17,2,0,2,2,55716298.0,8
+2572,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,5,80,49,23,1,0,6,1,73427961.0,4
+2573,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,6,73,53,17,0,0,3,0,61773620.34,5
+2574,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,7,78,46,20,0,0,7,5,70520567.37,7
+2575,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,8,58,37,11,0,0,5,5,43305536.5,2
+2576,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,9,47,32,6,1,0,5,3,40911192.17,2
+2577,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,10,53,27,10,0,0,2,14,31608673.67,5
+2578,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,11,38,28,9,0,0,0,1,24125411.78,3
+2579,Vancouver Island/Coast,10 - Cowichan Valley,315 - District of North Cowichan,12,48,32,8,0,0,3,5,34630447.19,4
+2580,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),1,15,13,2,0,0,0,0,7258400.0,3
+2581,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),2,40,17,8,0,0,0,15,19449856.4,5
+2582,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),3,29,19,10,0,0,0,0,15828450.0,2
+2583,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),4,31,20,9,0,0,0,2,24719555.0,3
+2584,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),5,28,22,6,0,0,0,0,18428734.0,3
+2585,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),6,32,28,4,0,0,0,0,24976781.67,0
+2586,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),7,18,15,3,0,0,0,0,12858080.0,1
+2587,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),8,33,25,3,0,0,0,5,20865681.0,1
+2588,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),9,29,12,1,0,0,0,16,14841540.0,0
+2589,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),10,14,6,4,0,0,0,4,7294600.0,2
+2590,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),11,15,9,4,0,0,0,2,11624800.0,2
+2591,Vancouver Island/Coast,10 - Cowichan Valley,445 - Town of Ladysmith (SD68),12,12,12,0,0,0,0,0,6968270.0,0
+2592,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,1,11,6,2,1,0,0,2,4437828.57,2
+2593,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,2,15,11,2,0,0,0,2,7806400.0,2
+2594,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,3,17,10,2,0,0,1,4,9288000.0,1
+2595,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,4,19,16,2,0,0,0,1,7665200.0,2
+2596,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,5,25,22,3,0,0,0,0,14399700.0,0
+2597,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,6,24,18,1,0,0,1,4,17143885.71,4
+2598,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,7,13,10,3,0,0,0,0,7736900.0,3
+2599,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,8,11,7,0,0,0,0,4,5474600.0,0
+2600,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,9,9,8,1,0,0,0,0,6864000.0,1
+2601,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,10,7,4,1,0,0,1,1,5366905.0,2
+2602,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,11,5,4,1,0,0,0,0,2255400.0,1
+2603,Vancouver Island/Coast,10 - Cowichan Valley,539 - Town of Lake Cowichan,12,4,3,1,0,0,0,0,2207000.0,0
+2604,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,1,39,21,3,0,0,15,0,36425099.0,1
+2605,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,2,33,24,1,0,0,8,0,30496738.1,1
+2606,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,3,35,18,2,0,0,15,0,48500352.38,0
+2607,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,4,53,40,0,0,0,13,0,59742085.0,0
+2608,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,5,50,36,0,0,0,14,0,52364098.71,1
+2609,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,6,53,45,0,0,0,8,0,57184458.84,1
+2610,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,7,58,41,3,0,0,14,0,56274705.85,1
+2611,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,8,65,50,2,0,0,13,0,71484173.0,1
+2612,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,9,43,31,3,0,0,9,0,44563474.0,0
+2613,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,10,40,31,1,0,0,8,0,32917121.0,0
+2614,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,11,34,27,1,0,0,6,0,30944769.14,2
+2615,Vancouver Island/Coast,10 - Cowichan Valley,765 - Duncan Rural,12,35,23,1,1,0,10,0,29814209.54,0
+2616,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,1,5,5,0,0,0,0,0,3441500.0,0
+2617,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,2,5,5,0,0,0,0,0,3750005.53,0
+2618,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,3,11,11,0,0,0,0,0,8631900.0,0
+2619,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,4,9,8,0,0,0,1,0,10119500.0,1
+2620,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,5,14,11,0,0,0,3,0,10188099.0,2
+2621,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,6,16,12,0,0,0,4,0,22317900.0,1
+2622,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,7,8,4,0,0,0,4,0,5175500.0,1
+2623,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,8,10,5,0,0,0,5,0,8374500.0,0
+2624,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,9,8,4,0,0,0,4,0,7580000.0,1
+2625,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,10,3,2,0,0,0,1,0,2925000.0,0
+2626,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,11,8,4,0,0,0,4,0,5513366.67,2
+2627,Vancouver Island/Coast,10 - Cowichan Valley,766 - Duncan Rural,12,6,5,0,0,0,1,0,3869700.0,0
+2628,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,1,2,1,0,0,0,1,0,935000.0,0
+2629,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,2,2,2,0,0,0,0,0,1549000.0,0
+2630,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,3,2,2,0,0,0,0,0,1730000.0,0
+2631,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,4,6,4,0,0,0,2,0,2613333.0,0
+2632,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,5,4,2,0,0,0,2,0,4005000.0,0
+2633,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,6,5,3,0,0,0,2,0,4962199.0,0
+2634,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,7,7,2,0,0,0,5,0,6783000.0,0
+2635,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,8,5,2,0,0,0,3,0,4068500.0,0
+2636,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,9,4,3,0,0,0,1,0,5857400.0,0
+2637,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,10,0,0,0,0,0,0,0,0.0,0
+2638,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,11,5,3,0,0,0,2,0,5510000.0,0
+2639,Vancouver Island/Coast,10 - Cowichan Valley,768 - Nanaimo Rural,12,4,3,0,0,0,1,0,2624000.0,0
+2640,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,1,6,3,2,1,0,0,0,1609000.0,1
+2641,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,2,11,8,2,1,0,0,0,6118900.0,5
+2642,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,3,17,9,6,1,0,1,0,4349025.0,5
+2643,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,4,15,8,5,0,0,2,0,6452500.0,2
+2644,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,5,16,8,8,0,0,0,0,4733000.0,4
+2645,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,6,7,6,1,0,0,0,0,1306500.0,1
+2646,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,7,11,4,6,0,0,0,1,3500900.0,4
+2647,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,8,7,4,2,1,0,0,0,3415000.0,1
+2648,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,9,6,6,0,0,0,0,0,1852000.0,1
+2649,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,10,5,5,0,0,0,0,0,1880000.0,2
+2650,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,11,7,6,1,0,0,0,0,2610000.0,3
+2651,Vancouver Island/Coast,17 - Mount Waddington,334 - District of Port Hardy,12,2,1,1,0,0,0,0,447300.0,1
+2652,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,1,1,1,0,0,0,0,0,145400.0,0
+2653,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,2,1,1,0,0,0,0,0,120000.0,0
+2654,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,3,1,1,0,0,0,0,0,196100.0,0
+2655,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,4,3,3,0,0,0,0,0,997000.0,0
+2656,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,5,1,1,0,0,0,0,0,240000.0,0
+2657,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,6,2,1,0,1,0,0,0,260000.0,0
+2658,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,7,1,1,0,0,0,0,0,200000.0,1
+2659,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,8,1,0,0,0,0,0,1,50000.0,0
+2660,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,9,0,0,0,0,0,0,0,0.0,0
+2661,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,10,3,3,0,0,0,0,0,840000.0,0
+2662,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,11,0,0,0,0,0,0,0,0.0,0
+2663,Vancouver Island/Coast,17 - Mount Waddington,502 - Village of Alert Bay,12,0,0,0,0,0,0,0,0.0,0
+2664,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,1,1,1,0,0,0,0,0,190000.0,0
+2665,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,2,4,0,4,0,0,0,0,602500.0,0
+2666,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,3,2,1,1,0,0,0,0,615000.0,0
+2667,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,4,2,1,1,0,0,0,0,506000.0,1
+2668,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,5,3,1,2,0,0,0,0,387738.0,0
+2669,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,6,4,3,1,0,0,0,0,979000.0,0
+2670,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,7,3,0,3,0,0,0,0,436700.0,0
+2671,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,8,4,1,3,0,0,0,0,688000.0,0
+2672,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,9,3,0,3,0,0,0,0,378000.0,0
+2673,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,10,2,1,1,0,0,0,0,244000.0,0
+2674,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,11,2,1,1,0,0,0,0,542000.0,1
+2675,Vancouver Island/Coast,17 - Mount Waddington,558 - Village of Port Alice,12,4,2,2,0,0,0,0,1088750.0,1
+2676,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,1,2,2,0,0,0,0,0,795000.0,1
+2677,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,2,3,3,0,0,0,0,0,365400.0,0
+2678,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,3,4,2,1,0,0,0,1,1273000.0,3
+2679,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,4,6,6,0,0,0,0,0,2375000.0,1
+2680,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,5,5,5,0,0,0,0,0,2180500.0,1
+2681,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,6,6,5,1,0,0,0,0,2950500.0,2
+2682,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,7,2,1,1,0,0,0,0,814000.0,1
+2683,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,8,3,3,0,0,0,0,0,1134000.0,2
+2684,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,9,8,8,0,0,0,0,0,3097000.0,2
+2685,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,10,0,0,0,0,0,0,0,0.0,0
+2686,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,11,2,2,0,0,0,0,0,920000.0,1
+2687,Vancouver Island/Coast,17 - Mount Waddington,563 - Town of Port McNeill,12,1,1,0,0,0,0,0,600000.0,0
+2688,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,1,6,2,0,0,0,4,0,2573600.0,0
+2689,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,2,2,2,0,0,0,0,0,419900.0,0
+2690,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,3,12,6,0,0,0,6,0,5416700.0,0
+2691,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,4,11,6,0,0,0,5,0,5093500.0,0
+2692,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,5,9,8,0,0,0,1,0,3958000.0,0
+2693,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,6,7,4,0,0,0,3,0,3555000.0,0
+2694,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,7,6,3,0,0,0,3,0,3176500.0,0
+2695,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,8,3,2,0,0,0,1,0,1860500.0,0
+2696,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,9,5,3,0,0,0,2,0,2490000.0,1
+2697,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,10,5,3,0,0,0,2,0,1655000.0,0
+2698,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,11,5,2,0,0,0,3,0,1727000.0,0
+2699,Vancouver Island/Coast,17 - Mount Waddington,785 - Port Hardy Rural,12,1,1,0,0,0,0,0,230000.0,0
+2700,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,1,217,125,51,7,31,1,2,153711546.0,14
+2701,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,2,142,95,42,2,0,1,2,104003364.0,8
+2702,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,3,222,160,53,1,0,6,2,183495355.1,11
+2703,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,4,194,127,57,2,1,7,0,167398276.1,17
+2704,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,5,273,182,83,3,0,3,2,224498628.1,23
+2705,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,6,284,216,60,3,3,1,1,230965769.8,17
+2706,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,7,217,158,54,1,1,2,1,173225750.0,13
+2707,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,8,201,140,50,2,0,0,9,152673833.4,23
+2708,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,9,188,92,39,0,0,0,57,113996172.8,18
+2709,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,10,146,82,30,0,0,4,30,104713935.1,12
+2710,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,11,171,86,79,1,0,0,5,131027805.0,20
+2711,Vancouver Island/Coast,18 - Nanaimo,250 - City of Nanaimo,12,142,75,65,0,0,1,1,88038408.33,19
+2712,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),1,4,4,0,0,0,0,0,6842050.0,0
+2713,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),2,4,4,0,0,0,0,0,3361000.0,0
+2714,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),3,7,7,0,0,0,0,0,9895000.0,0
+2715,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),4,8,6,0,0,0,2,0,9361476.19,0
+2716,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),5,10,10,0,0,0,0,0,10777071.43,0
+2717,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),6,11,9,0,0,0,2,0,11321500.0,0
+2718,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),7,7,7,0,0,0,0,0,8008400.0,0
+2719,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),8,2,2,0,0,0,0,0,3443000.0,0
+2720,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),9,3,2,0,0,0,1,0,3059500.0,0
+2721,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),10,3,2,0,0,0,1,0,2036000.0,0
+2722,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),11,5,5,0,0,0,0,0,5522619.05,0
+2723,Vancouver Island/Coast,18 - Nanaimo,350 - District of Lantzville (SD68),12,4,4,0,0,0,0,0,4096000.0,0
+2724,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),1,0,0,0,0,0,0,0,0.0,0
+2725,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),2,0,0,0,0,0,0,0,0.0,0
+2726,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),3,0,0,0,0,0,0,0,0.0,0
+2727,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),4,0,0,0,0,0,0,0,0.0,0
+2728,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),5,2,1,0,0,0,1,0,2350000.0,0
+2729,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),6,2,1,0,0,0,1,0,2919000.0,0
+2730,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),7,0,0,0,0,0,0,0,0.0,0
+2731,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),8,1,1,0,0,0,0,0,1150000.0,0
+2732,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),9,0,0,0,0,0,0,0,0.0,0
+2733,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),10,0,0,0,0,0,0,0,0.0,0
+2734,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),11,0,0,0,0,0,0,0,0.0,0
+2735,Vancouver Island/Coast,18 - Nanaimo,351 - District of Lantzville (SD69),12,0,0,0,0,0,0,0,0.0,0
+2736,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,1,64,24,16,0,10,0,14,31683422.09,3
+2737,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,2,36,29,5,0,0,0,2,22123105.0,2
+2738,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,3,39,20,17,0,0,0,2,26111700.0,1
+2739,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,4,47,28,10,0,0,0,9,34182891.0,2
+2740,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,5,33,20,13,0,0,0,0,26328300.0,2
+2741,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,6,46,31,12,2,0,0,1,43038700.0,0
+2742,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,7,37,27,9,0,0,1,0,33743855.67,1
+2743,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,8,52,33,17,0,0,1,1,46752296.0,0
+2744,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,9,33,19,9,0,0,0,5,23318807.15,1
+2745,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,10,38,20,17,0,0,0,1,25771943.0,0
+2746,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,11,29,21,6,0,0,0,2,19109380.0,0
+2747,Vancouver Island/Coast,18 - Nanaimo,559 - City of Parksville,12,23,15,8,0,0,0,0,14709823.81,0
+2748,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,1,17,13,4,0,0,0,0,12534000.0,2
+2749,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,2,13,7,4,0,0,0,2,10633900.0,0
+2750,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,3,24,18,5,1,0,0,0,26480483.0,0
+2751,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,4,21,14,7,0,0,0,0,17566900.0,0
+2752,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,5,26,20,6,0,0,0,0,26972690.0,1
+2753,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,6,21,14,6,0,0,0,1,16621900.0,1
+2754,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,7,29,25,4,0,0,0,0,31584200.0,0
+2755,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,8,31,24,6,0,0,1,0,35453700.0,0
+2756,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,9,24,22,1,1,0,0,0,21968200.0,0
+2757,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,10,19,15,3,0,0,1,0,17726000.0,0
+2758,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,11,24,18,6,0,0,0,0,20281082.91,0
+2759,Vancouver Island/Coast,18 - Nanaimo,565 - Town of Qualicum Beach,12,17,13,4,0,0,0,0,13760800.0,0
+2760,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,1,32,18,1,0,0,13,0,27394280.0,1
+2761,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,2,17,13,0,0,0,4,0,10695250.0,0
+2762,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,3,29,21,0,0,0,8,0,25498411.0,0
+2763,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,4,40,29,0,0,0,11,0,36039600.0,2
+2764,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,5,33,26,1,0,0,6,0,28506900.0,1
+2765,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,6,33,21,1,0,0,11,0,28915669.0,0
+2766,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,7,29,22,0,0,0,7,0,27759500.0,1
+2767,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,8,26,23,0,0,0,3,0,19945301.0,0
+2768,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,9,14,13,0,0,0,1,0,10174500.0,0
+2769,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,10,26,18,0,0,0,8,0,18860708.7,0
+2770,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,11,12,7,0,0,0,5,0,13715500.0,2
+2771,Vancouver Island/Coast,18 - Nanaimo,768 - Nanaimo Rural,12,15,12,0,0,0,3,0,10818500.0,1
+2772,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,1,47,26,4,0,0,17,0,46686999.0,2
+2773,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,2,32,20,6,0,0,6,0,29188430.3,1
+2774,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,3,43,26,3,0,0,14,0,42712562.62,2
+2775,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,4,50,30,6,0,0,14,0,57014400.0,2
+2776,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,5,58,41,7,0,0,10,0,60295670.0,3
+2777,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,6,61,49,3,0,0,9,0,66908438.0,3
+2778,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,7,63,41,8,0,0,14,0,71459752.0,0
+2779,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,8,54,40,6,0,0,8,0,53190800.0,1
+2780,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,9,37,29,1,0,0,7,0,44370359.11,1
+2781,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,10,47,27,4,0,0,16,0,43334543.0,2
+2782,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,11,52,38,4,0,0,10,0,56345692.36,1
+2783,Vancouver Island/Coast,18 - Nanaimo,769 - Alberni Rural,12,27,22,0,0,0,5,0,31405203.5,0
+2784,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,1,6,3,0,0,0,3,0,1463100.0,1
+2785,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,2,2,2,0,0,0,0,0,205000.0,0
+2786,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,3,2,2,0,0,0,0,0,511700.0,0
+2787,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,4,4,2,0,0,0,2,0,740000.0,0
+2788,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,5,9,2,0,0,0,7,0,3903000.0,3
+2789,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,6,6,5,0,0,0,1,0,1495000.0,1
+2790,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,7,12,7,0,0,0,5,0,2315000.0,1
+2791,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,8,2,2,0,0,0,0,0,233100.0,1
+2792,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,9,3,1,0,0,0,2,0,885000.0,0
+2793,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,10,1,1,0,0,0,0,0,165000.0,0
+2794,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,11,3,2,0,0,0,1,0,758000.0,1
+2795,Vancouver Island/Coast,20 - Central Coast,749 - Bella Coola Rural,12,0,0,0,0,0,0,0,0.0,0
+2796,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,1,29,25,4,0,0,0,0,13555700.0,4
+2797,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,2,24,22,1,1,0,0,0,13591740.0,2
+2798,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,3,25,19,5,1,0,0,0,15672600.0,0
+2799,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,4,20,16,2,1,0,0,1,12693900.0,2
+2800,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,5,33,30,3,0,0,0,0,20971748.98,1
+2801,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,6,28,24,3,0,0,0,1,20362100.0,1
+2802,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,7,26,23,2,0,0,0,1,18422700.0,1
+2803,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,8,38,34,4,0,0,0,0,23189286.0,3
+2804,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,9,23,22,1,0,0,0,0,16850600.0,2
+2805,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,10,20,18,2,0,0,0,0,10120300.0,1
+2806,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,11,17,15,1,0,0,0,1,10070450.0,1
+2807,Vancouver Island/Coast,23 - qathet,330 - City of Powell River,12,31,12,19,0,0,0,0,12782453.0,3
+2808,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,1,18,11,0,0,0,7,0,10428393.5,0
+2809,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,2,12,10,0,0,0,2,0,6185000.0,0
+2810,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,3,26,19,0,1,0,6,0,19396398.0,4
+2811,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,4,16,12,0,0,0,4,0,6921700.0,1
+2812,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,5,19,8,0,0,0,11,0,15751610.0,0
+2813,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,6,14,9,0,0,0,5,0,8307900.0,0
+2814,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,7,14,10,0,0,0,4,0,9411065.0,1
+2815,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,8,20,14,0,0,0,6,0,11543473.26,0
+2816,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,9,20,15,0,0,0,5,0,9624030.0,1
+2817,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,10,12,7,0,0,0,5,0,6403300.0,1
+2818,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,11,15,10,0,0,0,5,0,10034600.0,0
+2819,Vancouver Island/Coast,23 - qathet,747 - Powell River Rural,12,15,10,0,0,0,5,0,6209800.01,0
+2820,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,1,3,0,0,0,0,3,0,1387000.0,0
+2821,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,2,2,0,0,0,0,2,0,576000.0,0
+2822,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,3,4,0,0,0,0,4,0,2423000.0,0
+2823,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,4,0,0,0,0,0,0,0,0.0,0
+2824,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,5,2,1,0,0,0,1,0,1949000.0,0
+2825,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,6,1,0,0,0,0,1,0,900000.0,0
+2826,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,7,1,0,0,0,0,1,0,178000.0,0
+2827,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,8,2,0,0,0,0,2,0,1049000.0,0
+2828,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,9,0,0,0,0,0,0,0,0.0,0
+2829,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,10,0,0,0,0,0,0,0,0.0,0
+2830,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,11,2,0,0,0,0,2,0,976250.0,0
+2831,Vancouver Island/Coast,23 - qathet,769 - Alberni Rural,12,1,1,0,0,0,0,0,340300.0,0
+2832,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,1,102,55,15,2,0,0,30,56511022.0,8
+2833,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,2,56,39,10,1,0,0,6,38339007.12,6
+2834,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,3,65,52,10,2,0,0,1,45585371.0,2
+2835,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,4,74,54,18,1,0,1,0,51744234.02,6
+2836,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,5,85,69,14,1,0,1,0,64576839.0,6
+2837,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,6,92,73,16,2,0,1,0,63066600.0,10
+2838,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,7,53,49,4,0,0,0,0,38041985.0,3
+2839,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,8,63,45,17,1,0,0,0,42616300.0,6
+2840,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,9,44,31,13,0,0,0,0,26340800.0,4
+2841,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,10,42,30,10,1,1,0,0,28206650.0,4
+2842,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,11,38,30,7,0,0,1,0,25842417.0,2
+2843,Vancouver Island/Coast,31 - Strathcona,336 - City of Campbell River,12,25,20,2,1,0,1,1,17296280.95,5
+2844,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,1,7,7,0,0,0,0,0,1600500.0,2
+2845,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,2,3,2,1,0,0,0,0,968000.0,1
+2846,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,3,1,1,0,0,0,0,0,383000.0,0
+2847,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,4,8,6,2,0,0,0,0,3020000.0,2
+2848,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,5,6,5,1,0,0,0,0,2203000.0,0
+2849,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,6,5,4,1,0,0,0,0,1312000.0,0
+2850,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,7,1,1,0,0,0,0,0,405000.0,1
+2851,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,8,4,4,0,0,0,0,0,595000.0,1
+2852,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,9,7,6,1,0,0,0,0,1754390.48,1
+2853,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,10,2,2,0,0,0,0,0,454000.0,1
+2854,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,11,0,0,0,0,0,0,0,0.0,0
+2855,Vancouver Island/Coast,31 - Strathcona,526 - Village of Gold River,12,0,0,0,0,0,0,0,0.0,0
+2856,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,1,4,2,2,0,0,0,0,484000.0,0
+2857,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,2,0,0,0,0,0,0,0,0.0,0
+2858,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,3,1,1,0,0,0,0,0,454000.0,1
+2859,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,4,1,1,0,0,0,0,0,460000.0,0
+2860,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,5,0,0,0,0,0,0,0,0.0,0
+2861,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,6,1,1,0,0,0,0,0,120000.0,0
+2862,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,7,0,0,0,0,0,0,0,0.0,0
+2863,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,8,3,2,1,0,0,0,0,1154400.0,0
+2864,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,9,0,0,0,0,0,0,0,0.0,0
+2865,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,10,1,1,0,0,0,0,0,330000.0,0
+2866,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,11,0,0,0,0,0,0,0,0.0,0
+2867,Vancouver Island/Coast,31 - Strathcona,571 - Village of Sayward,12,1,1,0,0,0,0,0,115000.0,0
+2868,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,1,2,2,0,0,0,0,0,420000.0,0
+2869,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,2,5,5,0,0,0,0,0,915000.0,0
+2870,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,3,4,3,1,0,0,0,0,617500.0,0
+2871,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,4,4,4,0,0,0,0,0,662500.0,1
+2872,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,5,3,2,0,0,0,1,0,2059500.0,0
+2873,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,6,2,2,0,0,0,0,0,345000.0,0
+2874,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,7,4,2,2,0,0,0,0,369250.0,0
+2875,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,8,2,1,1,0,0,0,0,210000.0,0
+2876,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,9,1,0,1,0,0,0,0,100164.0,0
+2877,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,10,2,2,0,0,0,0,0,360000.0,0
+2878,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,11,2,2,0,0,0,0,0,280000.0,0
+2879,Vancouver Island/Coast,31 - Strathcona,575 - Village of Tahsis,12,4,3,0,0,0,1,0,791700.0,1
+2880,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,1,1,1,0,0,0,0,0,30000.0,0
+2881,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,2,0,0,0,0,0,0,0,0.0,0
+2882,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,3,0,0,0,0,0,0,0,0.0,0
+2883,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,4,1,1,0,0,0,0,0,40000.0,0
+2884,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,5,2,2,0,0,0,0,0,175000.0,1
+2885,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,6,1,1,0,0,0,0,0,140000.0,1
+2886,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,7,1,1,0,0,0,0,0,119000.0,1
+2887,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,8,0,0,0,0,0,0,0,0.0,0
+2888,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,9,2,2,0,0,0,0,0,536500.0,1
+2889,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,10,0,0,0,0,0,0,0,0.0,0
+2890,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,11,1,1,0,0,0,0,0,340000.0,1
+2891,Vancouver Island/Coast,31 - Strathcona,592 - Village of Zeballos,12,0,0,0,0,0,0,0,0.0,0
+2892,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,1,15,10,0,0,0,5,0,7961800.0,1
+2893,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,2,11,9,0,0,0,2,0,5960900.0,0
+2894,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,3,10,4,0,0,0,6,0,5852100.0,0
+2895,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,4,21,11,0,0,0,10,0,20634650.0,0
+2896,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,5,15,10,0,0,0,5,0,14117700.0,0
+2897,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,6,15,10,0,0,0,5,0,11782200.0,0
+2898,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,7,13,9,0,0,0,4,0,12481500.0,2
+2899,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,8,16,10,0,0,0,6,0,12563600.0,0
+2900,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,9,18,9,0,0,0,9,0,12961800.0,2
+2901,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,10,15,10,0,0,0,5,0,12960400.0,0
+2902,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,11,11,5,0,0,0,6,0,8773444.88,0
+2903,Vancouver Island/Coast,31 - Strathcona,772 - Campbell River Rural,12,4,2,0,0,0,2,0,1884000.0,0
+2904,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,1,0,0,0,0,0,0,0,0.0,0
+2905,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,2,1,1,0,0,0,0,0,330000.0,0
+2906,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,3,0,0,0,0,0,0,0,0.0,0
+2907,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,4,1,0,0,0,0,1,0,556000.0,0
+2908,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,5,0,0,0,0,0,0,0,0.0,0
+2909,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,6,1,1,0,0,0,0,0,185000.0,0
+2910,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,7,0,0,0,0,0,0,0,0.0,0
+2911,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,8,0,0,0,0,0,0,0,0.0,0
+2912,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,9,0,0,0,0,0,0,0,0.0,0
+2913,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,10,0,0,0,0,0,0,0,0.0,0
+2914,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,11,1,1,0,0,0,0,0,172000.0,0
+2915,Vancouver Island/Coast,31 - Strathcona,784 - Courtenay Rural,12,0,0,0,0,0,0,0,0.0,0
